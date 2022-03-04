@@ -38,22 +38,22 @@ Strengths: Innovative, User-friendly.
 Cost of calculator increases as features added in the calculator increase.
 
 ## High Level Requirement
-ID	  Description	                                        Status
-HL01	Calculates electricity bill at rural areas	        Implemented
-HL02	Calculates electricity bill at urban areas	        Implemented
-HL03	Calculates total load at domestics places	          Implemented
-HL04	Calculates total unit consumed at domestics places	Implemented
+ID	  Description	                                        
+HL01	Calculates electricity bill at rural areas	        
+HL02	Calculates electricity bill at urban areas	       
+HL03	Calculates total load at domestics places	          
+HL04	Calculates total unit consumed at domestics places	
 
 ## Low Level Requirements:
-ID	Description	Status
-L01	Electricity bill at Urban areas if(units<30)	Implemented
-L02	Electricity bill at Urban areas if(units>30 && units <100)	Implemented
-L03	Electricity bill at Urban areas if(units>101 && units <200)	Implemented
-L04	Electricity bill at Urban areas if(units<200)	Implemented
-L05	Electricity bill at Rural areas if(units<30)	Implemented
-L06	Electricity bill at Rural areas if(units>30 && units <100)	Implemented
-L07	Electricity bill at Rural areas if(units>101 && units <200)	Implemented
-L08	Electricity bill at Rural areas if(units<200)	Implemented
+ID	Description	
+L01	Electricity bill at Urban areas if(units<30)	
+L02	Electricity bill at Urban areas if(units>30 && units <100)	
+L03	Electricity bill at Urban areas if(units>101 && units <200)	
+L04	Electricity bill at Urban areas if(units<200)	
+L05	Electricity bill at Rural areas if(units<30)	
+L06	Electricity bill at Rural areas if(units>30 && units <100)	
+L07	Electricity bill at Rural areas if(units>101 && units <200)	
+L08	Electricity bill at Rural areas if(units<200)	
 ## Opportunities: 
 Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
