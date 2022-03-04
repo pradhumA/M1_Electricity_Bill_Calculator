@@ -36,6 +36,24 @@ We can use this system and find the electic bills using testing algorithm, desig
 Strengths: Innovative, User-friendly.
 ## Weakness
 Cost of calculator increases as features added in the calculator increase.
+
+## High Level Requirement
+ID	  Description	                                        Status
+HL01	Calculates electricity bill at rural areas	        Implemented
+HL02	Calculates electricity bill at urban areas	        Implemented
+HL03	Calculates total load at domestics places	          Implemented
+HL04	Calculates total unit consumed at domestics places	Implemented
+
+## Low Level Requirements:
+ID	Description	Status
+L01	Electricity bill at Urban areas if(units<30)	Implemented
+L02	Electricity bill at Urban areas if(units>30 && units <100)	Implemented
+L03	Electricity bill at Urban areas if(units>101 && units <200)	Implemented
+L04	Electricity bill at Urban areas if(units<200)	Implemented
+L05	Electricity bill at Rural areas if(units<30)	Implemented
+L06	Electricity bill at Rural areas if(units>30 && units <100)	Implemented
+L07	Electricity bill at Rural areas if(units>101 && units <200)	Implemented
+L08	Electricity bill at Rural areas if(units<200)	Implemented
 ## Opportunities: 
 Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
