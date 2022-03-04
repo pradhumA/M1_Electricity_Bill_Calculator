@@ -1,6 +1,6 @@
-Introduction:
+# Introduction:
 The Electricity Cost Calculator project is an application-based micro project that predicts the following month's electricity bill based on the appliances or loads used. Visual studio code was used to write the code for this project. This project employs a multi-file and multi-platform strategy (Linux and Windows).
-RESEARCH
+# RESEARCH
 People who haven't had depth of understanding of calculating power bills can use this package to forecast their electricity bills for the coming months; however, an electricity bill calculator must have the following features:
 
 All loads' power rating
