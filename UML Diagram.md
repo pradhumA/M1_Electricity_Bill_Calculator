@@ -11,4 +11,6 @@
 
 ## Low Level Structural Diagram
 
+![LLSD](https://user-images.githubusercontent.com/62873230/156751921-cd0b1a37-d1ee-4266-b8e4-9e1c1a85d7a1.jpg)
+
 ## High Level Structural Daigram
