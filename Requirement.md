@@ -45,15 +45,15 @@ HL03	Calculates total load at domestics places
 HL04	Calculates total unit consumed at domestics places	
 
 ## Low Level Requirements:
-ID	Description	
-L01	Electricity bill at Urban areas if(units<30)	
-L02	Electricity bill at Urban areas if(units>30 && units <100)	
-L03	Electricity bill at Urban areas if(units>101 && units <200)	
-L04	Electricity bill at Urban areas if(units<200)	
-L05	Electricity bill at Rural areas if(units<30)	
-L06	Electricity bill at Rural areas if(units>30 && units <100)	
-L07	Electricity bill at Rural areas if(units>101 && units <200)	
-L08	Electricity bill at Rural areas if(units<200)	
+ID	Description	      
+L01	Electricity bill at Urban areas if(units<30)                	
+L02	Electricity bill at Urban areas if(units>30 && units <100)                   	
+L03	Electricity bill at Urban areas if(units>101 && units <200)	                               
+L04	Electricity bill at Urban areas if(units<200)                  	
+L05	Electricity bill at Rural areas if(units<30)                 	
+L06	Electricity bill at Rural areas if(units>30 && units <100)              	
+L07	Electricity bill at Rural areas if(units>101 && units <200)                  	
+L08	Electricity bill at Rural areas if(units<200)	                       
 ## Opportunities: 
 Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
